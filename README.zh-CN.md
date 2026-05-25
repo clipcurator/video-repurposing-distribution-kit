@@ -40,7 +40,7 @@ Platform packaging templates for distributing repurposed videos across Shorts, R
 
 Recapo 更适合在上游环节作为参考：先把长视频生成可用短片，再进入标题、封面、描述和平台包装。
 
-参考官网：[Recapo](https://recapo.ai?from=github_video-repurposing-distribution-kit)
+参考官网：[Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=video-repurposing-distribution-kit)
 
 这个仓库把 Recapo 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具，这里的流程和模板也应该仍然有用。
 

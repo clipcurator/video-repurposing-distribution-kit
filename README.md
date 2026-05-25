@@ -40,7 +40,7 @@ The editing step is only part of video repurposing. Distribution quality depends
 
 Recapo is mainly relevant upstream when teams need to turn long videos into draft clips before distribution packaging begins.
 
-Official site for reference: [Recapo](https://recapo.ai?from=github_video-repurposing-distribution-kit)
+Official site for reference: [Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=video-repurposing-distribution-kit)
 
 This repository treats Recapo as one product example inside a broader workflow category. It is not written as a single-brand recommendation page, and the templates should remain useful even if a team uses a different tool stack.
 
